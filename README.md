@@ -1,6 +1,6 @@
 # belly_button_challenge_25
 
-🧬 Belly Button Biodiversity Dashboard
+🧬 Belly Button Biodiversity Dashboard.
 This project was created as part of the Data Analytics Bootcamp at the University of California, Irvine. It is an interactive dashboard designed to visualize and explore the microbial biodiversity found in human belly buttons using a public dataset provided in the course.
 
 📊 Project Overview
